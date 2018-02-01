@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @file plugins/blocks/carta/carta.inc.php
+ * @file plugins/blocks/test/test.inc.php
  *
  * Copyright (c) 2014-2018 Simon Fraser University
  * Copyright (c) 2003-2018 John Willinsky
@@ -63,20 +63,20 @@ class TestPlugin extends BlockPlugin {
 	 * @return String
 	 */
 	function getName() {
-		return __('plugins.block.carta.name');
+		return __('plugins.block.test.name');
 	}
 	/**
 	 * Get the display name of this plugin.
 	 * @return String
 	 */
 	function getDisplayName() {
-		return __('plugins.block.carta.displayName');
+		return __('plugins.block.test.displayName');
 	}
 	/**
 	 * Get a description of the plugin.
 	 */
 	function getDescription() {
-		return __('plugins.block.carta.description');
+		return __('plugins.block.test.description');
 	}
 }
 
