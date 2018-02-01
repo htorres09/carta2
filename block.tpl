@@ -10,9 +10,9 @@
 <div class="pkp_block block_developed_by">
 	<div class="content">
         {if(!query->wasEmpty())}
-		      <h3>{translate key="plugins.block.carta.displayName"}</h3>
+		      <h3>{translate key="plugins.block.test.displayName"}</h3>
               <br>
-              <h4>{translate key="plugins.block.carta.header"}</h4>
+              <h4>{translate key="plugins.block.test.header"}</h4>
               <ul>
                   <li> {$query} </li>
               </ul>

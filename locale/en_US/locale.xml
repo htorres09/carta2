@@ -12,8 +12,8 @@
   -->
 
 <locale name="en_US" full_name="U.S. English">
-    <message key="plugins.block.carta.name">"Developed By" Block</message>
-	<message key="plugins.block.carta.displayName">"Developed By" Block</message>
-    <message key="plugins.block.carta.header">"Developed By" Block</message>
-	<message key="plugins.block.carta.description">This plugin provides sidebar "Developed By" link.</message>
+    <message key="plugins.block.test.name">"Developed By" Block</message>
+	<message key="plugins.block.test.displayName">"Developed By" Block</message>
+    <message key="plugins.block.test.header">"Developed By" Block</message>
+	<message key="plugins.block.test.description">This plugin provides sidebar "Developed By" link.</message>
 </locale>

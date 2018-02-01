@@ -7,10 +7,10 @@
  * Copyright (c) 2003-2018 John Willinsky
  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
  *
- * @class CartaPlugin
- * @ingroup plugins_blocks_carta
+ * @class TestPlugin
+ * @ingroup plugins_blocks_test
  *
- * @brief Class for "carta" block plugin
+ * @brief Class for "Test" block plugin
  */
 
 import('lib.pkp.classes.plugins.BlockPlugin');

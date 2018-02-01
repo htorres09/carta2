@@ -11,9 +11,9 @@
   * Localization strings.
   -->
 
-<locale name="en_US" full_name="U.S. English">
-    <message key="plugins.block.carta.name">"Developed By" Block</message>
-	<message key="plugins.block.carta.displayName">"Developed By" Block</message>
-    <message key="plugins.block.carta.head">"Developed By" Block</message>
-	<message key="plugins.block.carta.description">This plugin provides sidebar "Developed By" link.</message>
+<locale name="es_ES" full_name="Español (España)">
+    <message key="plugins.block.test.name">"Developed By" Block</message>
+	<message key="plugins.block.test.displayName">"Developed By" Block</message>
+    <message key="plugins.block.test.head">"Developed By" Block</message>
+	<message key="plugins.block.test.description">This plugin provides sidebar "Developed By" link.</message>
 </locale>
